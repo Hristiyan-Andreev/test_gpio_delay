@@ -1,10 +1,7 @@
 import sys
 import time
 from threading import Timer
-# import elemental_api_class as liveapi
 
-# sys.path.append('/home/pi/config')
-import config as cf
 
 # Time measurement class
 class TimeMeasure():
